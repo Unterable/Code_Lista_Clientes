@@ -1,0 +1,17 @@
+Cliente: arlindo junior; Telefone: 96966969; CPF: 03910305156
+Logradouro: Bairro buritis Rua inga Numero 626
+
+Cliente: gean; Telefone: desenvolvedor; CPF: 03910305156
+Logradouro: Bairro buritis Rua inga
+
+Cliente: Benicio; Telefone: 96966969; CPF: 123456478
+Logradouro: Bairro São Cristovão Rua Mangueira Numero 132
+
+Cliente: joao; Telefone: 66 96963493; CPF: 039.103.051-56
+Logradouro: Bairro Buritis Rua inga Numero 626
+
+Cliente: Jocelino; Telefone: 9696 6969; CPF: 123456789
+Logradouro: Bairro Buritis Rua inga numero 626
+
+
+

@@ -1,0 +1,14 @@
+Funcionario: gean; Cargo: desenvolvedor; Salario: 2000
+
+Funcionario: Arlindo; Cargo: desenvolvedor; Salario: 2000
+
+Funcionario: ; Cargo: pedreiro; Salario: 2000
+
+Funcionario: gean; Cargo: desenvoldor web; Salario: 1000
+
+Funcionario: jocelino; Cargo: diretor; Salario: 3000
+
+Funcionario: Arlindo Junior; Cargo: Desenvolvedor; Salario: 1500
+
+
+
